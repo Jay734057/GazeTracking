@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OCV T1 Preview</string>
+    <string name="welcome">Welcome</string>
+    <string name="Interface">Interface</string>
+    <string name="title_activity_fuck">FuckActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
